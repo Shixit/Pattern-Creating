@@ -1,2 +1,2 @@
 # Pattern-Creating
-Different number/*/alphabetic patterns using c code
+Different numeric/*/alphabetic patterns using c code
